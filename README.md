@@ -2,7 +2,7 @@
 
 # How to run it
 1. clone the project
-   git clone https://github.com/rd003/YtBookStore.git
+   git clone https://github.com/SarveX623/YtBookStore-master
 2. open `appsettings.json` file and update connection string's `data source=your server name`
    
    ``` "ConnectionStrings": { "conn": "data source=(ur server name);initial catalog=YtBookStore;integrated security=true;encrypt=false" }```
